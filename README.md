@@ -10,5 +10,5 @@ various factors involved with bikesharking in New York City.
 ![Time Analysis](resources/time.png)
 ![Trip Analysis](resources/trip.png)
 </br> 
-[link to dashboard]("https://public.tableau.com/app/profile/emily.stevens7082/viz/CitiBikeData_16538688944390/NYCCitiBike?publish=yes")
+[link to dashboard](https://public.tableau.com/app/profile/emily.stevens7082/viz/CitiBikeData_16538688944390/NYCCitiBike?publish=yes)
 ## Summary
